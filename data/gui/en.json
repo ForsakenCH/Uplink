@@ -5,7 +5,8 @@
   },
   "loadingGame": {
     "state": "Loading the Cum",
-    "largeImageText": "Minecraft"
+    "largeImageText": "Minecraft",
+    "details": "pp"
   },
   "inGame": {
     "multiPlayer": {
