@@ -6,7 +6,6 @@
   "loadingGame": {
     "state": "Loading the Cum",
     "largeImageText": "Minecraft",
-    "details": "With %d mods"
   },
   "inGame": {
     "multiPlayer": {
@@ -14,7 +13,7 @@
         "unknown": "Unknown Server",
         "ip": "IP: %s"
       },
-      "state": "Playing with friends \u1f6of",
+      "state": "Playing with friends ;)",
       "details": "IGN: %s"
     },
     "singlePlayer": {
